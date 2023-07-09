@@ -1,3 +1,3 @@
 # netflix-landing-page
-## DEMO
+## DEMO 
 link -> https://jdmir-07.github.io/netflix-landing-page/
